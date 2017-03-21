@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
         //displaying IEMI in textview2
         TextView tv2 = (TextView) findViewById(R.id.textView2);
         tv2.setText("IMEI:"+imei);
+        //test git
     }
 
 }
