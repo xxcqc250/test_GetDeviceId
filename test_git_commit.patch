@@ -1,0 +1,16 @@
+Index: app/src/main/res/layout/activity_main.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/activity_main.xml	(revision 31bf381e15520b6445349d48ed2d2da73ebcd0c5)
++++ app/src/main/res/layout/activity_main.xml	(revision )
+@@ -16,7 +16,7 @@
+         android:id="@+id/textView1"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+-        android:layout_centerInParent="true"
++
+         android:textColor="#cc0000"
+         android:textSize="32sp" />
+ 
