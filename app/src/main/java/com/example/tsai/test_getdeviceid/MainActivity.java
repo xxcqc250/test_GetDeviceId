@@ -12,6 +12,7 @@ import android.app.Activity;
 import android.provider.Settings.Secure;
 import android.telephony.TelephonyManager;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -38,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
         //displaying IEMI in textview2
         TextView tv2 = (TextView) findViewById(R.id.textView2);
         tv2.setText("IMEI:"+imei);
+        int testing = 123;
         //test git
     }
 
