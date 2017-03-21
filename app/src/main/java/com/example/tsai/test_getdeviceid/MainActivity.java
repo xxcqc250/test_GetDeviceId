@@ -41,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
         tv2.setText("IMEI:"+imei);
         int testing = 123;
         //test git
+        String testing2="love you";
     }
 
 }
